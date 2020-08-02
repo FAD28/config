@@ -30,4 +30,10 @@ def function():
 
 ```
 
+Images:
+<!-- 
 ![Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "Config")
+ -->
+
+ Links:
+ [Visit website](https://google.com "Google")
