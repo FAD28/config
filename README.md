@@ -23,17 +23,21 @@ The color and their code values are as follows:
 |H	|Bold light grey; looks like bright white
 |x	|Default foreground or background
 
-```python
+
+
+
+<!-- MARKDOWN TUTORIAL: -->
+
+<!-- Code Block: -->
+<!-- ```python
 def function():
 	for i in f: 
 		x = [i for i in f]
 
-```
+``` -->
 
-Images:
-<!-- 
-![Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "Config")
- -->
+<!-- Images: -->
+<!-- ![Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "Config") -->
 
- Links:
- [Visit website](https://google.com "Google")
+<!-- Links: -->
+<!-- [Visit website](https://google.com "Google") -->
