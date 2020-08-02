@@ -20,6 +20,6 @@ G	Bold cyan
 H	Bold light grey; looks like bright white
 x	Default foreground or background
 
-
+*Bulletpoint with (*)
 
 
