@@ -1,7 +1,6 @@
 # config files
 
-![LCO Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "LCO") <!-- .element height="50%" width="50%" -->
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" width="100" height="100">
 
 The color and their code values are as follows:
 |Code	|Meaning (Color)|
@@ -31,6 +30,4 @@ def function():
 
 ```
 
-# Small Picture
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" width="100" height="100">
-
+![Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" "Config")
