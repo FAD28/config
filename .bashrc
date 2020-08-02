@@ -7,7 +7,6 @@ bold=$(tput bold);
 reset=$(tput sgr0);
 
 PS1="\[${blue}\]😈  \u"; # orange user
-PS1+="\[${blue}\]án"; 
 PS1+="\[${white}\] 🌀 ";
 PS1+="\[${green}\] \W "; # green working directory
 PS1+="\n";
