@@ -1,6 +1,6 @@
 # config files
 
-![LCO Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "LCO")
+![LCO Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png "LCO") <!-- .element height="50%" width="50%" -->
 
 
 The color and their code values are as follows:
@@ -24,10 +24,10 @@ The color and their code values are as follows:
 |H	|Bold light grey; looks like bright white
 |x	|Default foreground or background
 
-'''python
+```python
 def function():
 	for i in f: 
 		x = [i for i in f]
-		
-'''
+
+```
 
