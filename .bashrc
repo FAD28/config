@@ -7,6 +7,7 @@ bold=$(tput bold);
 reset=$(tput sgr0);
 
 PS1="\[${blue}\]😈  \u"; # orange user
+PS1+="\[${blue}\]án"; 
 PS1+="\[${white}\] 🌀 ";
 PS1+="\[${green}\] \W "; # green working directory
 PS1+="\n";
@@ -17,6 +18,8 @@ export PS1;
 export CLICOLOR=1
 export LSCOLORS=cxfxexdxbxegedabagacad
 
+# Setting PATH for Python 3.7
+# The original version is saved in .bash_profile.pysave
 PATH="/Library/Frameworks/Python.framework/Versions/3.7/bin:${PATH}"
 export PATH
 
@@ -40,4 +43,11 @@ else
 fi
 unset __conda_setup
 # <<< conda init <<<
+# Keybindings
+"\e[1~": beginning-of-line       # Home key
+"\e[4~": end-of-line             # End key
+export EDITOR='vim'
+alias ls='ls --color'
+
+
 
