@@ -30,4 +30,4 @@ def function():
 
 ```
 
-![Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" "Config")
+![LCO Config](https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" "LCO")
