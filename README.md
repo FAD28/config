@@ -31,3 +31,6 @@ def function():
 
 ```
 
+# Small Picture
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Windows_Settings_app_icon.png" width="100" height="10">
+
