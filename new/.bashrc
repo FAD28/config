@@ -5,13 +5,14 @@ green=$(tput setaf 71);
 white=$(tput setaf 15);
 bold=$(tput bold);
 reset=$(tput sgr0);
+emoji='⚡️ '
 
 PS1="\[${blue}\]😈  \u"; # orange user
 PS1+="\[${blue}\]án"; # orange user
 PS1+="\[${white}\] 🌀 ";
 PS1+="\[${green}\] \W"; # green working directory
 PS1+="\n";
-PS1+="\[${white}\]\$: \[${reset}\]"; # '$' and reset color
+PS1+="\[${white}\]${emoji} \[${reset}\]"; # '$' and reset color
 export PS1; 
 
 # ls colors
